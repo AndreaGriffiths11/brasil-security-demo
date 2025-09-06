@@ -1,1 +1,1 @@
-GITHUB_TOKEN=ghp_8bW0aDUhP76yOcjl67vGYVTmzsctl11QdkY7
+secret_scanning_ab85fc6f8d7638cf1c11da812da308d43_0100
